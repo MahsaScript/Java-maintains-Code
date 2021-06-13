@@ -7,8 +7,8 @@ public class C {
       int x=10;
       int y=25;
       int z=x+y;
-      int[] array_x = {107, 220, 305, 480};
-      int[] array_y = {270, 70, 9550, 300}; 
+      int[] array_x = {10457, 234520, 34505, 45480};
+      int[] array_y = {24570, 4570, 9543550, 334500}; 
       double sum_X=0;
       double sum_Y=0;
       for (int i = 0; i < 4; i++) {
