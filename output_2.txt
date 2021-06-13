@@ -1,0 +1,74 @@
+Commit ID: 2461e3258d9e3daa37c09186c340b22a5b7eea91
+Commit Line: 2
+Commit File: 1
+Commit insertions: 2
+Commit deletions: 0
+Initial commit
+Commit project_path: C:\Users\Maryam\AppData\Local\Temp\tmp5aute5gp\JavaCode
+README.md  has changed
+Commit ID: c2f3840cb30e59a764a61c6f87df271aef54682c
+Commit Line: 25
+Commit File: 1
+Commit insertions: 25
+Commit deletions: 0
+Adding mean of array for java code
+
+This code gets two arrays of integer values and computes their average.
+Commit project_path: C:\Users\Maryam\AppData\Local\Temp\tmp5aute5gp\JavaCode
+mean.java  has changed
+Commit ID: e22b89c801414b4a58ee6bf635e969ef2a678755
+Commit Line: 9
+Commit File: 1
+Commit insertions: 9
+Commit deletions: 0
+Sum of integer numbers
+
+This code calculates the sum of integer numbers.
+Commit project_path: C:\Users\Maryam\AppData\Local\Temp\tmp5aute5gp\JavaCode
+sum.java  has changed
+Commit ID: 7bfd0f3da608fe2e63a58e4710c916c3ad5782a9
+Commit Line: 16
+Commit File: 1
+Commit insertions: 16
+Commit deletions: 0
+This code gets changed on repository 
+
+This code has been written by the aid of pydriller.
+Commit project_path: C:\Users\Maryam\AppData\Local\Temp\tmp5aute5gp\JavaCode
+git_list.py  has changed
+Commit ID: 10a7ada16139dbbe26ad00102528db2ae10356c2
+Commit Line: 16
+Commit File: 1
+Commit insertions: 0
+Commit deletions: 16
+This delete is for test.
+
+Test Deletion.
+Commit project_path: C:\Users\Maryam\AppData\Local\Temp\tmp5aute5gp\JavaCode
+git_list.py  has changed
+Commit ID: 31c4066f960c2de368f4bdd4bac8ad0cff05255b
+Commit Line: 22
+Commit File: 1
+Commit insertions: 22
+Commit deletions: 0
+This code shows changes in git.
+
+It  determines the previous revision/commit of any revision/commit
+Commit project_path: C:\Users\Maryam\AppData\Local\Temp\tmp5aute5gp\JavaCode
+git_list.py  has changed
+Commit ID: 440e9a65b62f76cba407846ab3c3c07b72a3231b
+Commit Line: 22
+Commit File: 1
+Commit insertions: 0
+Commit deletions: 22
+Delete as test
+Commit project_path: C:\Users\Maryam\AppData\Local\Temp\tmp5aute5gp\JavaCode
+git_list.py  has changed
+Commit ID: 665a678d1dbfb8d36c82816427fb426e667ea38e
+Commit Line: 22
+Commit File: 1
+Commit insertions: 22
+Commit deletions: 0
+It determines the previous revision/commit of any revision/commit.
+Commit project_path: C:\Users\Maryam\AppData\Local\Temp\tmp5aute5gp\JavaCode
+git_list.py  has changed
